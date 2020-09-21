@@ -1,0 +1,3 @@
+include ':cpp-module'
+include ':app'
+rootProject.name = "CPP module"
